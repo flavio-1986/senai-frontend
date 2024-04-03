@@ -36,7 +36,7 @@ html{
 }
 
 .logo img{
-    width: 100%;
+    width: 70px;
     height: 100%;    
 }
 
@@ -48,7 +48,7 @@ html{
 .content .list-menu{
     display: flex;
     align-items: center;
-    width: 500px;
+    width: 600px;
     justify-content: space-between;
 }
 
@@ -56,9 +56,9 @@ html{
     color:white;
     text-transform: uppercase;
     padding-top: 3rem;
-    padding-bottom: 2.4rem;
+    padding-bottom: 2rem;
     transition: all 200ms ease-in;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     padding-left: 1rem;
     padding-right: 1rem;
     font-weight: 500;
@@ -137,3 +137,5 @@ html{
     display:flex;
     justify-content: space-between;
 }
+
+/*Sobre nos*/
